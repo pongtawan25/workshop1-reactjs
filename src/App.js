@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import Apple from './components/App_functional_component'
+import Apple from './components/App_stateless'
 
 export default class App extends Component {
   render() {
